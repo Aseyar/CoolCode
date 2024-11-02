@@ -1,0 +1,16 @@
+Index: src/files/images12.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>img\nimg\n\n..\n...\n....\n
+===================================================================
+diff --git a/src/files/images12.txt b/src/files/images12.txt
+--- a/src/files/images12.txt	
++++ b/src/files/images12.txt	
+@@ -4,3 +4,7 @@
+ ..
+ ...
+ ....
++img
++img
++,,,
++...
